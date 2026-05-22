@@ -65,5 +65,3 @@ Para otros `main`, sustituye el nombre de la clase principal, por ejemplo `MainA
 - Documentar la complejidad y casos de prueba para cada algoritmo.
 - Añadir un script `build.ps1` para automatizar compilación y ejecución.
 
----
-Generado automáticamente: README básico para orientarte sobre el contenido y cómo compilar/ejecutar los ejercicios.
